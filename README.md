@@ -6,3 +6,4 @@ Steps
 2. Select random number
 3. Find one and try
 4. Repeat
+5. Backtrack 
